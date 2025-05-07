@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+wh
+1
+0
+3
+car
+1
+0
+9
+1
+23
+wh<380000 or car<380000
+4
+1
+47
+'A quien desea donarle, 1 para wh y 2 para car'
+5
+1
+1
+n
+7
+0
+1
+3
+n=1
+7
+0
+1
+10
+car<380000
+4
+1
+40
+'Carlitos ha alcanzado el limite maximo'
+13
+4
+1
+28
+'Cuanto desea donarle a car'
+5
+1
+1
+n
+6
+1
+3
+car
+5
+car+n
+13
+13
+7
+0
+1
+9
+wh<380000
+4
+1
+34
+'wh ha alcanzado el limite maximo'
+13
+4
+1
+27
+'Cuanto desea donarle a wh'
+5
+1
+1
+n
+6
+1
+2
+wh
+4
+wh+n
+13
+13
+11
+1
